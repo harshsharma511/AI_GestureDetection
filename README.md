@@ -1,5 +1,13 @@
 # AI_GestureDetection
 
+Steps to run this project-
+
+1.Click on this Google Drive Link -https://drive.google.com/file/d/1VDeN8lWNbhxFZWs4hZolrp6mnX4gueiy/view?usp=sharing
+2.Download the zip folder to your computer.
+3.Unzip the folder.
+4.Run "Harsh Final Project.ipynb" file in your Jupyter Notebook.
+
+
 ASL Based Hand Gesture Recognition using Convolution Neural Network(CNN)
 For the ASL Gesture recognition we have 44 gesture samples and for each gesture sample we have 1200 images. Each of the images is of 50*50 pixels and is stored in the gestures folder. Each of these images is in grayscale and we have also flipped them in the python file so that we can increase the accuracy of detection and so now for each gesture we have 2400 images.
 
