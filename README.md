@@ -2,10 +2,13 @@
 
 Steps to run this project-
 
-1.Click on this Google Drive Link -https://drive.google.com/file/d/1VDeN8lWNbhxFZWs4hZolrp6mnX4gueiy/view?usp=sharing
-2.Download the zip folder to your computer.
-3.Unzip the folder.
-4.Run "Harsh Final Project.ipynb" file in your Jupyter Notebook.
+  1.Click on this Google Drive Link -https://drive.google.com/file/d/1VDeN8lWNbhxFZWs4hZolrp6mnX4gueiy/view?usp=sharing
+  
+  2.Download the zip folder to your computer.
+  
+  3.Unzip the folder.
+  
+  4.Run "Harsh Final Project.ipynb" file in your Jupyter Notebook.
 
 
 ASL Based Hand Gesture Recognition using Convolution Neural Network(CNN)
